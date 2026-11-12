@@ -1,5 +1,9 @@
 ## 한국표준협회KSA 회사에서_바로_쓰는_ChatGPT_AtoZ 공유 자료실
 
+## 과제 업로드
+- https://drive.google.com/drive/folders/1aqHo7aLyCKx3QVQs2inbfiAvKSadKVH3?usp=sharing
+- 
+
 ### 샘플 활용법
 - 각 모듈에서 활용될 수 있는 샘플을 먼저 이용하면서 본인의 자료에 어떻게 이용할 것 인지를 찾아내는데 이용하세요.
 
