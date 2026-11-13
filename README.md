@@ -1,5 +1,9 @@
 ## 한국표준협회KSA 회사에서_바로_쓰는_ChatGPT_AtoZ 공유 자료실
 
+
+## 사용자 주문 프로그램
+- 192.168.1.3:8765
+
 ## 증시 사이트
 
 - https://teal-naiad-96ab9a.netlify.app/
