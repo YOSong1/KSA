@@ -1,5 +1,9 @@
 ## 한국표준협회KSA 회사에서_바로_쓰는_ChatGPT_AtoZ 공유 자료실
 
+## 증시 사이트
+
+- https://teal-naiad-96ab9a.netlify.app/
+
 
 ## 참고
 
