@@ -1,5 +1,10 @@
 ## 한국표준협회KSA 회사에서_바로_쓰는_ChatGPT_AtoZ 공유 자료실
 
+
+## 참고
+
+- http://192.168.1.8:7007/
+
 ## 과제 업로드
 - https://drive.google.com/drive/folders/1aqHo7aLyCKx3QVQs2inbfiAvKSadKVH3?usp=sharing
 - 
